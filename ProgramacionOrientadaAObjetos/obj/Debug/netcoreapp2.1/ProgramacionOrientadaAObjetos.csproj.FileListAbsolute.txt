@@ -1,0 +1,11 @@
+C:\Users\Carlos Cuéllar\source\repos\ProgramacionOrientadaAObjetos\ProgramacionOrientadaAObjetos\obj\Debug\netcoreapp2.1\ProgramacionOrientadaAObjetos.csprojAssemblyReference.cache
+C:\Users\Carlos Cuéllar\source\repos\ProgramacionOrientadaAObjetos\ProgramacionOrientadaAObjetos\obj\Debug\netcoreapp2.1\ProgramacionOrientadaAObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Cuéllar\source\repos\ProgramacionOrientadaAObjetos\ProgramacionOrientadaAObjetos\obj\Debug\netcoreapp2.1\ProgramacionOrientadaAObjetos.AssemblyInfoInputs.cache
+C:\Users\Carlos Cuéllar\source\repos\ProgramacionOrientadaAObjetos\ProgramacionOrientadaAObjetos\obj\Debug\netcoreapp2.1\ProgramacionOrientadaAObjetos.AssemblyInfo.cs
+C:\Users\Carlos Cuéllar\source\repos\ProgramacionOrientadaAObjetos\ProgramacionOrientadaAObjetos\bin\Debug\netcoreapp2.1\ProgramacionOrientadaAObjetos.deps.json
+C:\Users\Carlos Cuéllar\source\repos\ProgramacionOrientadaAObjetos\ProgramacionOrientadaAObjetos\bin\Debug\netcoreapp2.1\ProgramacionOrientadaAObjetos.runtimeconfig.json
+C:\Users\Carlos Cuéllar\source\repos\ProgramacionOrientadaAObjetos\ProgramacionOrientadaAObjetos\bin\Debug\netcoreapp2.1\ProgramacionOrientadaAObjetos.runtimeconfig.dev.json
+C:\Users\Carlos Cuéllar\source\repos\ProgramacionOrientadaAObjetos\ProgramacionOrientadaAObjetos\bin\Debug\netcoreapp2.1\ProgramacionOrientadaAObjetos.dll
+C:\Users\Carlos Cuéllar\source\repos\ProgramacionOrientadaAObjetos\ProgramacionOrientadaAObjetos\bin\Debug\netcoreapp2.1\ProgramacionOrientadaAObjetos.pdb
+C:\Users\Carlos Cuéllar\source\repos\ProgramacionOrientadaAObjetos\ProgramacionOrientadaAObjetos\obj\Debug\netcoreapp2.1\ProgramacionOrientadaAObjetos.dll
+C:\Users\Carlos Cuéllar\source\repos\ProgramacionOrientadaAObjetos\ProgramacionOrientadaAObjetos\obj\Debug\netcoreapp2.1\ProgramacionOrientadaAObjetos.pdb
